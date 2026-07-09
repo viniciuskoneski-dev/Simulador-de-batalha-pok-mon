@@ -1,0 +1,1 @@
+# Simulador-de-batalha-pok-mon
